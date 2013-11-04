@@ -15,6 +15,12 @@ My book in progress, currently titled *Gadgetry: New Media and the Fictional Ima
 
 The idea is to produce a history what is more or less a *genre* of technology that includes both actual tools you can hold in your hand and perform certain actions with (we can look around this room right now, or root through our pockets, and come up with some tools that we understand to be gadgets), but this genre includes fictional devices as well:  the word can serve as a kind of placeholder for a tool that hasn't been invented yet, or is entirely fantastic.  The gadget is an object that lives a curiously double life as both a functional and a fictional device.
 
+* * *
+
+so, important for me here is the history of science fiction, and the ways that literary authors have narrativized technologies, but also the flip-side of this equation, moments of so-called "science fictionality" in everyday life -- when something becomes so new or foreign you lack the ability to contextualize what's happening.
+
+* * *
+
 This is exciting to me precisely because media studies, a field whose domain is supposed to be the intersections of technology and cultural form, has proven pretty clumsy when it comes to articulating a relationship between these two elements that isn't entirely deterministic:  Poetry *reacts* to the new experiences of speed in technological modernity rather than producing new experiences in its own right; game designers build levels based on the affordances and limitations of the platforms they're designing for, rather than pushing engineers to rethink those platforms and interfaces.
 
 In this talk, I'll basically be working through some methodological groundwork for the project as a whole.
@@ -55,9 +61,11 @@ Herein lies the importance of understanding the technical object not just as a t
 
 Magic, when it is spoken of in relation to technology, usually implies a kind of awe in the face of inscrutable complexity.  According to Arthur C. Clarke's so-called third law, "any sufficiently advanced technology is indistinguishible from magic."  But it is important for us to remember that there is a very different form of magic about tools as simple as the denticulate side-scraper, one that has everything to do with legibility.  These artifacts compel speculation on the irremediable texture of habits and techniques that have long since been forgotten or absorbed into other forms of technical expertise.  Despite their alien appearance and their improbable survival from a world so different from our own, these tools (like any other) almost seem to reach out and grasp us, whispering of how they are to be used.  This is what we might call technology's ontological magic: how we come to understand what a tool is and what it's good for.
 
-While the Mousterian debate reveals what's at stake when thinking about technology, I want to suggest that it also dramatizes what it is to think *through* technology.  There is something of this paleoarchaeological magic evoked every single time we pick up a tool.  A delimited set of affordances branches off from the contours of the individual tool (such as torque, storage, amplification), but it is never enough to simply begin and end here.  This purposive model must always unfold into a range of preferences, routines, traditions, and styles.
+While the Mousterian debate reveals what's at stake when thinking about technology, I want to suggest that it also dramatizes what it is to think *through* technology.  There is something of this paleoarchaeological magic evoked every single time we pick up a tool.  A delimited set of affordances branches off from the contours of the individual tool (such as torque, storage, amplification), but it is never enough to simply begin and end here.  This means-ends model must always unfold into a range of preferences, routines, traditions, and styles.
 
-Thus, the dialectic at the core of the Mousterian debate -- between cultural tradition or functional adaptation, technology and technique -- is played out in the ways we think through a problem using the potential grammar of material solutions, whenever we decide to push or pull, attempt to decipher a manual, or prepare to teach a new method.  The "operational sequence" of any technical interaction, as the French archaeologist Andre Leroi-Gourhan calls it, consists in an assemblage of material and non-material components:
+Thus, the dialectic at the core of the Mousterian debate -- between cultural tradition or functional adaptation, technology and technique -- is played out in the ways we think through a problem using the grammar of potential solutions, whenever we decide to push or pull, attempt to decipher a manual, or prepare to teach a new method.
+
+The "operational sequence" of any technical interaction, as the French archaeologist Andre Leroi-Gourhan calls it, consists in an assemblage of material and non-material components:
 
 > Techniques involve both gestures and tools, sequentially organized by means of a 'syntax' that imparts both fixity and flexibility to the series of operations involved.  This operating syntax is suggested by the memory and comes into being as a product of the brain and the physical environment.
 
