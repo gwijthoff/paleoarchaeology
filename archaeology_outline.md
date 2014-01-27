@@ -7,7 +7,7 @@ ToDo
 Outline
 ========
 
-**Keywords:** technogenesis, media archaeology, Heidegger
+**Keywords:** technogenesis, media archaeology, Heidegger, imaginary media
 
 Technology and Technique in the Mousterian Debate
 --------------------------------------------------
@@ -32,6 +32,8 @@ Are Gadgets Making Us Stupid?
 
 Epistemological Reverse Engineering
 ------------------------------------
+
+- Paleoarchaeology's "epistemological reverse engineering" (Ernst) of human tool use mirrors the very process it seeks to uncover:  we hold a tool and attempt to think through the contours of what it affords.
  
 Notes
 ======
@@ -90,3 +92,10 @@ What makes the gadget an important and understudied topic in the cultural histor
 [18] Vita Sackville-West, Country Notes (New York: Harper, 1940), 196.
 [19] Joseph Fort Newton, Living Every Day: A Book of Faith, Philosophy, and Fun (New York: Harper, 1937).
 [20] Herbert Hoover, "Concerning Honor in Public Life: Nation-wide Broadcast Address at the Iowa Centennial Celebration, Des Moines, Iowa." Addresses Upon the American Road, 1945-1948 (D. Van Nostrand Co., 1949).
+
+4. Footnotes from dissertation chapter outline
+-----------------------------------------------
+
+[49] Bernard Dionysius Geoghegan, "From Information Theory to French Theory: Jackobson, Levi-Strauss, and the Cybernetic Apparatus," Critical Inquiry 38, no. 1 (2001), 98.
+[50] The social constructivist argument says that society determines technological form, rather than the other way around.  "Social constructivists look very closely at the inner workings of artifacts in order to uncover the social threads and relations running through them."  Langdon Winner, "Upon Opening the Black Box and Finding it Empty: Social Constructivism and the Philosophy of Technology," Science, Technology, and Human Values, vol. 18, no. 3 (Summer 1993), 364.  Associated with this movement are H.M. Collins, Trevor Pinch, Wiebe Bijker, Donald Mackenzie, Steven Woolgar, and Thomas Hughes, among others.
+[51] Anne Balsamo, Designing Culture: The Technological Imagination at Work (Duke University Press, 2011), 9.  Janet Murray makes a similar case for the importance of the humanities in building new technologies:  "Unlike other useful books in HCI (human-computer interaction) or interaction design, this book is written from a humanities perspective.  One of the most important characteristics of humanistic inquiry is that it accommodates multiple frameworks of interpretation, a habit of mind that is a good fit for the design process, which never has a single right answer and is strengthened by an expanded palette of possibilities. ... From a humanities perspective, the design of digital objects is a cultural practice like writing a book or making a film. ... To see any artifact (i.e., any human-made object) as part of culture is to understand how it becomes meaningful through the social activities, thoughts, and actions of the pepole who engage with it."  Janet Murray, Inventing the Medium, 1.
