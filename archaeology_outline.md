@@ -20,7 +20,7 @@ Technology and Technique in the Mousterian Debate
         + technology's ontological magic
         + [introduce this as an intervention into media archaeology earlier??]
 - what is media archaeology?
-- why prehistorical (and classical?) archaeology are relevant
+- why prehistorical (ie. paleo-) (and classical?) archaeology are relevant
     * [more about archaeology as a field relevant for media archaeology]
 
 Are Gadgets Making Us Stupid?
@@ -29,6 +29,9 @@ Are Gadgets Making Us Stupid?
 - popular conversation on cognitive impact of mobile media
 - technogenesis introduction
 - can an individual feel the pressure of evolutionary change within a lifetime?
+
+Epistemological Reverse Engineering
+------------------------------------
  
 Notes
 ======
@@ -70,7 +73,14 @@ Cuts
 
 In order to track down the poetics of imagining and imaginary solutions, I would like to proceed inductively, taking my cue from the evolution of a particularly appropriate genre of technology: the gadget.
 
-2. taking the proposition literally that gadgets are causing us to evolve
+2. "new" media
+---------------
+
+(It is for this reason that the "new media" in this study's subtitle refers not to digital media, a usage fashionable throughout the 2000s that has since tapered off, but to the ways in which media are "always already new," in the words of Lisa Gitelman:  those moments that new devices and forms of communication have historically opened up a space of unfamiliarity, shock, or disruption, a void that, as we will see, speculations and imaginaries quickly rush in to fill.[33])
+
+[33] Lisa Gitelman, Always Already New: Media History and the Data of Culture (MIT Press, 2006).  Janet Murray writes critiques "...the vagueness of the term [new media] encourages sloppy thinking about design by suggesting that novelty is the salient property of these phenomena.  Video games and word processors have been around since the 1970s, but they pose design problems that are also found in the most cutting-edge robotics or virtual reality installation.  Calling objects made with computing technology 'new' media obscures the fact that it is the computer that is defining difference not the novelty.  After all, a newspaper printed on a cereal box would be a new medium if it were to appear tomorrow, but no one would refer to it as a 'new media' because it is not computer based."  Inventing the Medium, 8.  See also Wendy Chun and Thomas Keenan's introduction New Media, Old Media (Routledge, 2006) for a discussion of this phrase's provenance.
+
+3. taking the proposition literally that gadgets are causing us to evolve
 --------------------------------------------------------------------------
 
 I do think we should take this proposition -- that gadgets are causing us to evolve -- at its word.  But it's a proposition that makes sense not because digital media have come down from on high in order to alter the nature of human cognition.  Instead, I want to emphasize how a deeper history of gadgetry -- a category that has encompassed tools, techniques, and ideas -- provides a means to register shifts in the evolving ways we think with technology.  The versatile gadget ("What an odd little word 'gadget' is, almost a gadget in itself, so small and useful," writes Vita Sackville-West[18]) has been applied throughout the twentieth century not only to specific tools, but to modes of manufacture, forms of expertise, imaginary machines, styles of problem solving, and fictional devices.  While gadget might refer to a concrete object you can hold in your hand, the word might just as easily refer to any tool that has been forgotten, rigged up on the fly, or not yet invented.  The gadget lives a curiously double life, alternating between the functional and the fictional.  To speak then of the history of gadgetry is not merely to turn our attention the small, seemingly trivial objects that the more distinguished lineages of material culture studies and the history of technology have systematically passed over; it is to isolate those imaginary dimensions that evolutionary trees and archaeological layers cannot convey.
