@@ -3,6 +3,11 @@ ToDo
 
 - quick line on Bordes's (a.k.a. Carsac) SF stories and criticism
 - double check characters in German "Zahlreiche" quote
+- main research areas (in order of time needed)
+    * **Archaeology** as a discipline
+    * **Foucault** and media archaeology's appropriation of his work
+        + Mark Hansen on how/why Foucault's focus on the individual (technologies of the self) have been passed over
+    * **Heidegger** (need little more than some cites on object/Thing)
 
 Outline
 ========
