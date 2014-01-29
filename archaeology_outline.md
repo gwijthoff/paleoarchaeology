@@ -3,6 +3,12 @@ ToDo
 
 - quick line on Bordes's (a.k.a. Carsac) SF stories and criticism
 - double check characters in German "Zahlreiche" quote
+- choking on the following references with colons:
+    * pandoc-citeproc: reference carr_shallows_2011 not found
+    * pandoc-citeproc: reference kirschenbaum_mechanisms_2008 not found
+    * pandoc-citeproc: reference wills_dorsality_2008 not found
+    * pandoc-citeproc: reference foley_stony_1997 not found
+    * pandoc-citeproc: reference flichy_tele not found
 - main research areas (in order of time needed)
     * **Archaeology** as a discipline
     * **Foucault** and media archaeology's appropriation of his work
