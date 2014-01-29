@@ -6,8 +6,8 @@ Rodney Harrison (@harrison_surface_2011) provides some background on Schiffer's 
 
 Trigger, writing on the growing insistence that archaeology not be merely a positivist discipline, but one self-aware about the history of its own methods, says that Schiffer was a critic of this more meta-, historical approach.  "Schiffer (1976: 193) once asserted that graduate courses should cease to be 'histories of thought' and instead should systematically expound and articulate current theories, as, in a general sort of way, K.R. Dark has since done in his book *Theoretical Archaeology* (1995).  Schiffer's position embodied the view that the truth or falseness of theoretical formulations is independent of social influences and hence of history but can be determined by applying scientifically valid procedures of evaluation to adequate bodies of data.  Taken to an extreme, this view implies that the history and philosophy of archaeology are totally unrelated to each other." (@trigger_history_2006, 2)
 
-```
+* * * 
 All of this perhaps echoes Latour's intervention in "Has Critique Run Out of Steam?", a plea to return to "matters of fact" and add to reality, "never to get *away* from the facts but *closer* to them, not fighting empiricism but, on the contrary, renewing empiricism" (231).  "The mistake we made, the mistake I made, was to believe that there was no efficient way to criticize matters of fact except by moving *away* from them and directing one's attention *toward* the conditions that made them possible.  But this meant accepting much to uncritically what matters of fact were."
 
 I wonder if Schiffer would be sympathetic to Latour's view that "Reality is not defined by matters of fact.  Matters of fact are not all that is given in experience.  Matters of fact are only very partial and, I would argue, very polemical, very political renderings of matters of concern and only a subset of what could be called 
-```
+* * * 

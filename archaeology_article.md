@@ -9,7 +9,7 @@ csl: /Users/grantwythoff/TeX/_chicago-fullnote-nobib.csl
 ---
 
 > *Before writing, the hand was used principally for making and the face for language, but with the invention of writing the balance between the two was restored.*\
-> -André Leroi-Gourhan, *Gesture and Speech*
+>> -André Leroi-Gourhan, *Gesture and Speech*
 
 Technology and Technique in the Mousterian Debate
 ==================================================
