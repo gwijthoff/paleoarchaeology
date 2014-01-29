@@ -45,6 +45,8 @@ The history of ideas, which for Foucault entails "shady philosophies that haunt 
 
 This isn't to ask for any sort of "scientificity" in its own right, especially when archaeologists are continuously calling into question notions of positivism in their work, instead preferring to view their research as 
 
+simply how material objects/culture mediates our relationship to the past.
+
 * * * * * * * * * * * 
 
 Of course, these questions of interpretivism have since been simplified by chronometric techniques that lend greater accuracy to the dating of objects.  Bordes and Binford wrote just before the development and influence of radiocarbon dating, which allowed later paleoarchaeologists to definitively order their artifacts in space and time.[^1]  Unless researchers like Bordes and Binford extracted paleolithic tools from neatly stratified layers in the sediment, thus lending some sort of temporal order (which was exceedingly rare), they strung artifacts together in a historical sequence by extrapolating from form.
