@@ -14,6 +14,7 @@ ToDo
     * **Foucault** and media archaeology's appropriation of his work
         + Mark Hansen on how/why Foucault's focus on the individual (technologies of the self) have been passed over
     * **Heidegger** (need little more than some cites on object/Thing)
+- Note to my Fellows:  still very much wearing its framework as a dissertation chapter, but hopefully you can provide me with some insights on how best to grow this into a standalone article.
 
 Outline
 ========
@@ -51,7 +52,7 @@ Notes
 
 Shoot for 6-8k words.
  
-Something more than just a lit review.  Perhaps a mix between an intellectual history and a case study?
+Something more than just a lit review.  Perhaps a mix between an intellectual history and a case study?  What's a specific object or case study that could be used?  Perhaps Alan Kay's speculative design for a tablet for children?  How that invokes imaginary media *as well as* concerns about cognitive abilities, learning challenges, growing/learning through tools, etc?  An archaeology of the "tablet," something that has a ton of "paleo-" resonance, tablet as a writing surface, etc.  Or is that too convenient, too cutesy?  A geographical map of spread of stone tool modes could be related to conceptual spread of ideas of reading/learning/literacy?
 
 Conceptualizing the encounter between a user and a tool.  Heidegger is useful here, but what we're after is something like *interaction* and future-directedness.
 
