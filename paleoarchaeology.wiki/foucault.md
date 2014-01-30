@@ -1,3 +1,12 @@
+reuse somewhere, perhaps
+-------------------------
+
+This isn't to leave Foucault aside entirely.  To the contrary, the (again, metaphorical) excavation of "shady philosophies" the study of which to him could never "attain the form of scientificity" -- "themes that are never crystallized in a rigorous and individual system … the history of alchemy rather than chemistry, of animal spirits or phrenology rather than physiology, the history of atomistic themes rather than physics" -- all of these beliefs, imaginaries, and incorrect theories will prove indispensable as we go along in a thoroughgoing account of what it is to think through a tool.  (@foucault_archaeology_1969, 136)
+
+^[Perhaps to the chagrin of Foucault "the analysis of sub-literatures, almanacs, reviews and newspapers, temporary successes, anonymous authors" is one of the fields that digital methods promises to explore.]
+
+* * * * * * * * 
+
 stemming from Foucault's archaeology of knowledge and power, the actualization of "the archive", an exploration of the conditions under which a certain statement or thought becomes possible, an excavation of how things are organized in order to produce knowledge.
 
 historical a priori:  "a condition of reality for statements" (@foucault_archaeology_1969, 127).

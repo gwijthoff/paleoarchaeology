@@ -56,6 +56,8 @@ Something more than just a lit review.  Perhaps a mix between an intellectual hi
 
 Conceptualizing the encounter between a user and a tool.  Heidegger is useful here, but what we're after is something like *interaction* and future-directedness.
 
+Quote to use somewhere:  "Though there exists one major academic industry … telling the social scientists … how they can turn themselves into genuine scientists, there exists another, with at least as flourishing an output, putatively establishing that the study of man and society cannot be scientific." Ernest Gellner, *Relativism and the Social Sciences,* p. 120 qtd. in @trigger_history_2006.
+
 Heidegger's object vs. *Thing*
 -------------------------------
 
