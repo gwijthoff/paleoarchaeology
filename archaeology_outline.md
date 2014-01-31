@@ -14,7 +14,7 @@ ToDo
     * **Foucault** and media archaeology's appropriation of his work
         + Mark Hansen on how/why Foucault's focus on the individual (technologies of the self) have been passed over
     * **Heidegger** (need little more than some cites on object/Thing)
-- Note to my Fellows:  still very much wearing its framework as a dissertation chapter, but hopefully you can provide me with some insights on how best to grow this into a standalone article.
+- Note to my Fellows:  still very much wearing its framework as a dissertation chapter, but hopefully you can provide me with some insights on how best to grow this into a standalone article.  A very tight knot that I'm hoping you brilliant fellows can help me unravel!
 
 Outline
 ========
