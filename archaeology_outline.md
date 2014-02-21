@@ -1,6 +1,7 @@
 ToDo
 =====
 
+- look into Schiffer and Knappett on affordances.  Schiffer the archaeologist also writes on the history of portable radios.  See Evernote from 2/18
 - double check characters in German "Zahlreiche" quote
 - main research areas (in order of time needed)
     * **Archaeology** as a discipline
