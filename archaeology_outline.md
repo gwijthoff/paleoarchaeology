@@ -16,6 +16,38 @@ ToDo
     * **Heidegger** (need little more than some cites on object/Thing)
 - Note to my Fellows:  still very much wearing its framework as a dissertation chapter, but hopefully you can provide me with some insights on how best to grow this into a standalone article.  A very tight knot that I'm hoping you brilliant fellows can help me unravel!
 
+Workshop notes
+===============
+
+game plan
+--------------
+
+lead with: archaeology is a useful term, but we use it too quickly.  the kind of hand wavy gesture made when wires are connected to ideology and power and discourse.  let's get in there and figure out *how* this circuit is made from material to culture
+
+there are two examples i'm getting out of archaeology, the user and the interpreter, the neanderthal and the archaeologist.  make sure to spell these out, because there are two separate stories to tell here
+    interpreter:  this is a useful story as we have a moment when people trained in text analysis are learning to analyze objects.  that shift is *the* story in play here.
+
+a final gesture where I wrap up what is essentially a new interpretive tool that I have applied to the Dynabook, a methodological tool that you the reader can pick up and use
+
+misc
+------
+
+reader questions and warnings and warnings:
+
+- what does archaeology offer the history of media rather than history of technology?  make that explicit.
+    - history of tech and SCOT has nothing to say about the individual user, and the way 
+- there's a slippage in terms between technology and medium often, which "gadget" just muddles.  be aware of this
+- there's at once too much and too little information.  needs to be smoothed out
+- don't construct too much of a straw man when it comes to history of technology -- whiggish, progressivist narratives of technological progress have thoroughly been dealt with in the field.
+    - especially Leo Marx, "Technology: A Dangerous Concept"
+    - there's also a literature on technological competition and lost technologies -- bluray, mp3, flash (Tarleton Gillespie) etc.
+
+There are cultural anthropologists who have been doing similar work, such as Danny Miller.  Why use paleoarchaeology, for instance, and not cultural anthropologists?
+
+In effect, a similar move to ontogeny recapitulates phylogeny -- the individual syntax and decisions of the user recapitulate shifts in the "history" and morphology of a given tool
+
+examples of a tech being used to different ends?  Ed Russell, War on Nature, and "war-born" chemicals like napalm used in domestic sphere?
+
 Outline
 ========
 
