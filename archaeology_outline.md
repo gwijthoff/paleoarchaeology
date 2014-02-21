@@ -1,13 +1,23 @@
-ToDo
-=====
+To Do
+======
 
+- begin research on the Dynabook
 - look into Schiffer and Knappett on affordances.  Schiffer the archaeologist also writes on the history of portable radios.  See Evernote from 2/18
+- see notes Eduardo Kohn's talk, "How Forests Think," for more on the spread of an idea -- not just a gene/meme, but signs and representations, following C.S. Pierce.
 - double check characters in German "Zahlreiche" quote
 - main research areas (in order of time needed)
     * **Archaeology** as a discipline
     * **Foucault** and media archaeology's appropriation of his work
         + Mark Hansen on how/why Foucault's focus on the individual (technologies of the self) have been passed over
     * **Heidegger** (need little more than some cites on object/Thing)
+    
+To Read
+========
+
+Heidegger, "The Thing," in *Poetry, Language, Thought*
+Heidegger, *What is a Thing?*  (a book on Kant?)
+Marcel Mauss, *A General Theory of Magic* (1902)
+Foucault, a *lot* of groundwork here
 
 Workshop notes
 ===============
@@ -18,14 +28,15 @@ game plan
 lead with: archaeology is a useful term, but we use it too quickly.  the kind of hand wavy gesture made when wires are connected to ideology and power and discourse.  let's get in there and figure out *how* this circuit is made from material to culture
 
 there are two examples i'm getting out of archaeology, the user and the interpreter, the neanderthal and the archaeologist.  make sure to spell these out, because there are two separate stories to tell here
-    interpreter:  this is a useful story as we have a moment when people trained in text analysis are learning to analyze objects.  that shift is *the* story in play here.
+
+interpreter:  this is a useful story as we have a moment when people trained in text analysis are learning to analyze objects.  that shift is *the* story in play here.
 
 a final gesture where I wrap up what is essentially a new interpretive tool that I have applied to the Dynabook, a methodological tool that you the reader can pick up and use
 
 misc
 ------
 
-reader questions and warnings and warnings:
+reader questions and warnings:
 
 - what does archaeology offer the history of media rather than history of technology?  make that explicit.
     - history of tech and SCOT has nothing to say about the individual user, and the way 
@@ -45,6 +56,16 @@ Outline
 ========
 
 **Keywords:** technogenesis, media archaeology, Heidegger, imaginary media
+
+New schema
+-----------
+
+- Are Gadgets Making us Stupid?
+- Technology and Technique
+- Epistemological Reverse Engineering
+    - Sets up Dynabook object study
+- Dynabook
+- Closing gesture: take this toolkit and use it
 
 Technology and Technique in the Mousterian Debate
 --------------------------------------------------
@@ -97,14 +118,6 @@ i.e., why can't the Challenger be treated like a Thing, an assemblage of materia
 "If a thing is a gathering, as Heidegger says…"
 
 "If the 'thinging of the thing' is a gathering that always connects the "united four, earth and sky, divinities and mortals, in the simple onefold of their self-unified fourfold'"… (235)
-
-To Read
-========
-
-Heidegger, "The Thing," in *Poetry, Language, Thought*
-Heidegger, *What is a Thing?*  (a book on Kant?)
-Marcel Mauss, *A General Theory of Magic* (1902)
-Foucault, a *lot* of groundwork here
 
 Cuts
 =====
