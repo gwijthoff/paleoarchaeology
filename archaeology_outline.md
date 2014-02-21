@@ -1,20 +1,12 @@
 ToDo
 =====
 
-- quick line on Bordes's (a.k.a. Carsac) SF stories and criticism
 - double check characters in German "Zahlreiche" quote
-- choking on the following references with colons:
-    * pandoc-citeproc: reference carr_shallows_2011 not found
-    * pandoc-citeproc: reference kirschenbaum_mechanisms_2008 not found
-    * pandoc-citeproc: reference wills_dorsality_2008 not found
-    * pandoc-citeproc: reference foley_stony_1997 not found
-    * pandoc-citeproc: reference flichy_tele not found
 - main research areas (in order of time needed)
     * **Archaeology** as a discipline
     * **Foucault** and media archaeology's appropriation of his work
         + Mark Hansen on how/why Foucault's focus on the individual (technologies of the self) have been passed over
     * **Heidegger** (need little more than some cites on object/Thing)
-- Note to my Fellows:  still very much wearing its framework as a dissertation chapter, but hopefully you can provide me with some insights on how best to grow this into a standalone article.  A very tight knot that I'm hoping you brilliant fellows can help me unravel!
 
 Workshop notes
 ===============
