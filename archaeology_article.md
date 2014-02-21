@@ -8,7 +8,7 @@ bibliography: archaeology.bib
 csl: /Users/grantwythoff/TeX/_chicago-fullnote.csl
 ---
 
-Technology and Technique in the Mousterian Debate
+Technology & Technique in the Mousterian Debate
 ==================================================
 
 Illustrated below are two groups of stone tools manufactured by a Neanderthal culture known as the Mousterian, estimated to be anywhere between thirty and three-hundred thousand years old.  The group of tools on the left includes heart-shaped handaxes, knife edges with smoothed hand holds, a number of small borers made of flint, and ridge-faced scrapers described as "denticulate" for their tooth-like structure.  On the right, we have a greater number of side-scrapers with a single working edge, a more uniform style of retouching that resembles overlapping fish scales, and a painstakingly formed blade usually associated with the later industries of anatomically modern humans.  These tools, all of which were excavated in the 1950s from the same site in the southwest of France, occasioned one of the most famous debates over the study of cultural transmission through the archaeological record.  At a time before the development and influence of chronometric techniques like radiocarbon dating that would allow later paleoarchaeologists to definitively order these artifacts in time and space, the Mousterian debate centered on the question of how we can extrapolate history from the formal properties of a technical object.
