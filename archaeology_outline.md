@@ -55,6 +55,8 @@ examples of a tech being used to different ends?  Ed Russell, War on Nature, and
 Outline
 ========
 
+Potential structure, after Schiffer 2005. A general introduction to the problem, then "This paper has five major sections: (I) general considerations concerning CTS-related invention processes, (II) elaboration of the cascade model, (III) illustration of the model with the development of the nineteenth-century electromagnetic tele- graph, (IV) discussion of the model's applicability to small-scale societies, and (V) enumeration of the model's broadest implications for studying tech- nological change."
+
 **Keywords:** technogenesis, media archaeology, Heidegger, imaginary media
 
 New schema
