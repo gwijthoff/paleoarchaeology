@@ -57,6 +57,8 @@ Outline
 
 Potential structure, after Schiffer 2005. A general introduction to the problem, then "This paper has five major sections: (I) general considerations concerning CTS-related invention processes, (II) elaboration of the cascade model, (III) illustration of the model with the development of the nineteenth-century electromagnetic tele- graph, (IV) discussion of the model's applicability to small-scale societies, and (V) enumeration of the model's broadest implications for studying tech- nological change."
 
+Schiffer's "behavioral archaeology" is an answer to how archaeologists study interaction without language or text.  This is a very important point.  It shows what the textual scholar studies with objects.  See Knappett 2011 notes, 5-6.
+
 **Keywords:** technogenesis, media archaeology, Heidegger, imaginary media
 
 New schema
