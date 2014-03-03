@@ -11,3 +11,7 @@ All of this perhaps echoes Latour's intervention in "Has Critique Run Out of Ste
 
 I wonder if Schiffer would be sympathetic to Latour's view that "Reality is not defined by matters of fact.  Matters of fact are not all that is given in experience.  Matters of fact are only very partial and, I would argue, very polemical, very political renderings of matters of concern and only a subset of what could be called 
 * * * 
+
+From "The Devil is in the Details: The Cascade Model of Invention Process"
+
+"In a nutshell, the cascade model posits that during a CTS's [complex technological system] development, emergent performance problems recognized by people as shortcomings that technology's constitute interactions stimulate sequential spurts of invention.  
