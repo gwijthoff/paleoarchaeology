@@ -111,6 +111,19 @@ Conceptualizing the encounter between a user and a tool.  Heidegger is useful he
 
 Quote to use somewhere:  "Though there exists one major academic industry … telling the social scientists … how they can turn themselves into genuine scientists, there exists another, with at least as flourishing an output, putatively establishing that the study of man and society cannot be scientific." Ernest Gellner, *Relativism and the Social Sciences,* p. 120 qtd. in @trigger_history_2006.
 
+Magic
+------
+
+(from email to Lori Emerson)
+
+What interests me about technological magic is that a user doesn't need to understand how something works in order to know that it does or will work.  In this sense, the stage magician model of a performer hiding the machinations of his trick from the audience only takes us so far, because it is precisely the users of technology that are being "tricked."  Granted, I had to be a bit more aphoristic and condensed in this introduction than I would have liked to have been, for reasons of time and paperwork etc etc.  But ultimately, I'm trying to make an ontological claim about technology that I haven't seem formulated elsewhere.  Sure, we only come to a fuller understanding of technology when it breaks.  But the status of technology-in-use is incredibly complex, and surprisingly uninterrogated on its own terms, except perhaps by designers.
+
+When I say that "we all pick up a tool in the subjunctive mood," I'm trying to get at the way that those "what if" questions (what can I do with this device that wasn't possible before? how hard do I have to swing it?) are structured by the device itself.  This form of knowing is "magical" to me in that it's a kind of tacit legibility imparted to us through mysterious means.  A cumulative culture grows up around any given tool, providing it with a kind of legibility without understanding, inquiry without knowledge.
+
+Yes, there's a danger in restricting critique to the level of the uninformed, end-user.  But as a thought experiment, I'm trying to think about the ontology of the black box.  Similar to how the designation of "magic" has been used by religion to deprecate certain practices and beliefs they deem threatening, perhaps we can also look at the way various cultures of use are occluded by a technocratic elite who employ the term "user" with all of its overtones of dependence and addiction.  
+
+For all intents and purposes, the public understands the technologies it uses every day as a form of magic.  Empowering them through tinkering, hacking, historicizing, and education is one (absolutely necessary and needed) response.  But this public is in no way inherently unintelligent in its understanding of technology.  I want to find a way to model the various forms of knowing that users bring to tools, and that tools bring to users, in all of their imaginary, distracted, magical valences.
+
 Heidegger's object vs. *Thing*
 -------------------------------
 
