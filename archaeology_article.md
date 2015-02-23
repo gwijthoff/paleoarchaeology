@@ -11,6 +11,8 @@ csl: /Users/grantwythoff/TeX/_chicago-fullnote.csl
 Quick Start Guide
 ==============
 
+"Instructions represent a layman's ultimate form of access to implicit or *tacit knowledge,* as Bruno Latour has defined this kind of practical expertise.  Instructions are akin to, but not identical with, laws.  Whereas laws can be transgressed and reinforced by punishment, the rules regarding proper usage cannot be ignored -- without also risking one's position or job.  Those who don't go by the norms, who don't follow the rules of the trade, will be relieved of their right to exercise their activity.  Technical regulations are vital for art.  The procedural rules reflect its current state of affairs.  Thus, when making a statement about cultural techniques, one need not speculate whether the operational instructions have been followed or not.  Their presence calls attention to a particular kind of praxis." (Vismann, "Cultural Techniques and Sovereignty," 88).  Is there room for creativity/improvisation w/ cultural techniques?  "The study of cultural techniques raises questions about how things and media operate.  Thereby, it traces the fiction of sovereign subjectivity, the myth of the subject as legislator, instigator, or perpetrator, back to the techniques that make it possible in the first place." (Ibid)
+
 Open any new piece of consumer electronics today, and invariably you will find that the user's manual -- a robust booklet complete with table of contents, annotated cross sections, troubleshooting, appendices, an index -- has been replaced by the "quick start guide."  This small card (sometimes a transparent decal affixed to the screen itself) contains only the vital information, conveyed through icons and gestures rather than language, to get you up and running.
 
 While this may be seen as part of a general trend to go green, providing instead the more complete instructions as a PDF on the manufacturer's website, other factors seem to be in play.
@@ -35,7 +37,11 @@ Suchman's "situated actions"
 
 An overarching assumption that our devices are smart and we too are "smart." (Ellen Rose book w/ chapter on the "smart" user)  Are we becoming smarter?  Becoming different?  What are these cognitive assumptions on the part of the user?
 
-How do I make the turn from talking about smartusers and cognitive shifts from talking about archaeology as a useful term for media theory that we should take more seriously?
+How do I make the turn from talking about smartusers and cognitive shifts from talking about archaeology as a useful term for media theory that we should take more seriously?  It all turns around the idea of "magic."  Magic in *2001: A Space Odyssey* and the ontological magic of technology.  In the background of all this (it's okay to say it this way) is the idea that textual scholars now interpret artifacts… and media archaeology should be more grounded.
+
+See Lori Emerson on Mark Weiser's ubicomp pad
+
+See *From Memex to Hypertext* (1991): http://monoskop.org/log/?p=11747
 
 * * * * * * * * * * * 
 
